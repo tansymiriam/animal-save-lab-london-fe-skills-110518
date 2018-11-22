@@ -23,6 +23,6 @@ html {
   
   #dolphin {
     top: 100px;
-    transform: rotate;
+    transform: skew(30deg, 20deg);
   }
 }
